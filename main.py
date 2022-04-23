@@ -16,21 +16,21 @@ def my_quiz():
     print("\nIncorrect!")
     
   print("\nWhich among these is a real anime?")
-  answer_1 = input("\n a: Devil Slayer\n b: Attack On Giants\n c: Naruto\n")
-  if answer_1 == "c":
+  answer_2 = input("\n a: Devil Slayer\n b: Attack On Giants\n c: Naruto\n")
+  if answer_2 == "c":
     print("Correct!")
   else: 
     print("\nIncorrect!")
     print("\nWhich year was the first episode of Naruto released?")
-  answer_1 = input("\n a: 2000\n b: 2002\n c: 2005\n")
-  if answer_1 == "b":
+  answer_3 = input("\n a: 2000\n b: 2002\n c: 2005\n")
+  if answer_3 == "b":
     print("\nCorrect!")
   else:
     print("\nIncorrect!")
 
     print("\nWhich country does anime originate from?")
-  answer_1 = input("\n a: Brazil\n b: France\n c: Japan\n")
-  if answer_1 == "c":
+  answer_4 = input("\n a: Brazil\n b: France\n c: Japan\n")
+  if answer_4 == "c":
     print("\nCorrect!")
   else:
     print("\nIncorrect!")
